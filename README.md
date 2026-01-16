@@ -10,20 +10,12 @@ Dataset
 Home Equity Loan dataset containing applicant demographics, credit attributes, and loan performance.
 
 Approach
-Approach
-
 Performed train/test split prior to preprocessing to prevent data leakage
-
 Built Scikit-learn pipeline with:
-
 Median imputation for numerical features
-
 Most-frequent imputation + one-hot encoding for categorical features
-
 Random Forest classifier with class-weight balancing
-
 Evaluated using classification report and ROC-AUC
-
 Tuned decision threshold to improve detection of defaulters
 
 RESULTS: 
