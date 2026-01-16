@@ -7,7 +7,7 @@ Predict whether a loan applicant will default using historical loan application 
 
 Dataset
 
-HMEQ (Home Equity Loan) dataset containing applicant demographics, credit attributes, and loan performance.
+Home Equity Loan dataset containing applicant demographics, credit attributes, and loan performance.
 
 Approach
 Approach
